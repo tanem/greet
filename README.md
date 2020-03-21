@@ -1,7 +1,7 @@
 # greet
 
 [![GoDoc](https://godoc.org/github.com/tanem/greet?status.svg)](https://godoc.org/github.com/tanem/greet)
-[![Go Report Card](https://goreportcard.com/badge/github.com/KyleBanks/goggles)](https://goreportcard.com/report/github.com/KyleBanks/goggles)
+[![Go Report Card](https://goreportcard.com/badge/github.com/tanem/greet)](https://goreportcard.com/report/github.com/tanem/greet)
 
 > A simple Go Hello, World! module.
 
