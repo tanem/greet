@@ -1,5 +1,6 @@
 language: go
 go:
   - 1.14.x
+if: type = pull_request
 script:
   - go test -v
