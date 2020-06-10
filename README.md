@@ -12,7 +12,7 @@
 From [gobinaries.com](https://gobinaries.com):
 
 ```
-$ curl -sf https://gobinaries.com/tanem/greet | sh
+$ curl -sf https://gobinaries.com/tanem/greet/cmd/greet | sh
 ```
 
 From source:
