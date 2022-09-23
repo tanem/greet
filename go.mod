@@ -1,3 +1,3 @@
 module github.com/tanem/greet
 
-go 1.14
+go 1.18
